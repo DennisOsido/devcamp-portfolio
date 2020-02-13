@@ -57,4 +57,5 @@ gem 'devise'#, '~> 4.2'
 
 gem 'bootstrap'
 
-gem 'osido_view_tool', git: 'https://github.com/DennisOsido/osido_view_tool' 
+gem 'osido_view_tool', git: 'https://github.com/DennisOsido/osido_view_tool'
+gem 'petergate', '~> 1.7' 
